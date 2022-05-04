@@ -7,7 +7,7 @@ User can stake their ERC20 tokens on this platform, and then get rewarded by the
 
 ## Technology Used
 
-- Smart Contract: Solidity
+- Smart Contract: Solidity, hardhat
 - Frondend: React.js, ethers.js
 
 ## Development Progress
