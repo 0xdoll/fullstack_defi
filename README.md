@@ -22,7 +22,20 @@ User can stake their ERC20 tokens on this platform, and then get rewarded by the
 - ERC1967 TransparentUpgradeableProxy [0x317c7E4A3F2c2181E53fd2a489574501Cfc8Aa18](https://rinkeby.etherscan.io/address/0x317c7E4A3F2c2181E53fd2a489574501Cfc8Aa18)
 - TransparentUpgradeableProxyAdmin [0x9a58D46bEe7Cf8F7E5e477c84d6f70e128789029](https://rinkeby.etherscan.io/address/0x9a58D46bEe7Cf8F7E5e477c84d6f70e128789029)
 
-## How to use
+## Usage
+
+### Smart contracts
+
+```shell
+# deploy & verify contracts
+$ npx hardhat run scripts/deploy.js --network rinkeby
+
+# do some tests
+$ npx hardhat run scripts/test.js --network rinkeby
+
+```
+
+### Frondend
 
 ```shell
 # TODO
