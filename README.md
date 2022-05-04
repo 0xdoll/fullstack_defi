@@ -3,7 +3,9 @@
 ## Introduction
 
 My first Fullstack Defi/Dapp Project.
-User can stake their ERC20 tokens on this platform, and then get rewarded by the reward token. (Similar to yieal farming or liquidity mining)
+Users can stake their ERC20 tokens on this platform, and then get rewarded by the reward token. (Similar to yieal farming or liquidity mining)
+
+![web ui](./frond_end/UI.png)
 
 ## Technology Used
 
