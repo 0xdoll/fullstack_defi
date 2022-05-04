@@ -5,10 +5,6 @@
 My first Fullstack Defi/Dapp Project.
 Users can stake their ERC20 tokens on this platform, and then get rewarded by the reward token. (Similar to yieal farming or liquidity mining)
 
-<p align="center">
-<img src="./frond_end/UI.png" width="80%"/>
-</p>
-
 ## Technology Used
 
 - Smart Contract: Solidity, hardhat
@@ -44,3 +40,9 @@ $ npx hardhat run scripts/test.js --network rinkeby
 ```shell
 # TODO
 ```
+
+#### Web UI
+
+<p align="center">
+<img src="./frond_end/UI.png" width="75%"/>
+</p>
